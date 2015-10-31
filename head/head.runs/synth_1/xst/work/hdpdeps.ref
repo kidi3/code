@@ -1,0 +1,22 @@
+V3 11
+FL "/home/student/head/head.srcs/sources_1/imports/brick_sorter (copy)/ADC/ADC.srcs/sources_1/new/adc.vhd" 2015/10/30.16:33:02 P.20131013
+EN work/adc 1446228373 \
+      FL "/home/student/head/head.srcs/sources_1/imports/brick_sorter (copy)/ADC/ADC.srcs/sources_1/new/adc.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/adc/Behavioral 1446228374 \
+      FL "/home/student/head/head.srcs/sources_1/imports/brick_sorter (copy)/ADC/ADC.srcs/sources_1/new/adc.vhd" \
+      EN work/adc 1446228373
+FL "/home/student/head/head.srcs/sources_1/imports/brick_sorter (copy)/led_driver/led_driver.srcs/sources_1/new/led_driver.vhd" 2015/10/30.18:48:03 P.20131013
+EN work/led_driver 1446228375 \
+      FL "/home/student/head/head.srcs/sources_1/imports/brick_sorter (copy)/led_driver/led_driver.srcs/sources_1/new/led_driver.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/led_driver/Behavioral 1446228376 \
+      FL "/home/student/head/head.srcs/sources_1/imports/brick_sorter (copy)/led_driver/led_driver.srcs/sources_1/new/led_driver.vhd" \
+      EN work/led_driver 1446228375
+FL /home/student/head/head.srcs/sources_1/imports/new/control.vhd 2015/10/30.18:58:44 P.20131013
+EN work/control 1446228377 \
+      FL /home/student/head/head.srcs/sources_1/imports/new/control.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/control/Behavioral 1446228378 \
+      FL /home/student/head/head.srcs/sources_1/imports/new/control.vhd \
+      EN work/control 1446228377 CP adc CP led_driver
