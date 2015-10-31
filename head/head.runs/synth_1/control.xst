@@ -1,9 +1,0 @@
-set -loop_iteration_limit 1000
-run
--ifn control.prj
--top control
--p xc3s50atq144-4
--ofn control.ngc
--opt_mode speed
--opt_level 1
--netlist_hierarchy rebuilt

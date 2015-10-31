@@ -1,8 +1,0 @@
-INTSTYLE=pa
-INFILE=/home/student/head/head.runs/impl_1/control_routed.ncd
-OUTFILE=/home/student/head/head.runs/impl_1/control.bit
-FAMILY=Spartan3A and Spartan3AN
-PART=xc3s50a-4tq144
-WORKINGDIR=/home/student/head/head.runs/impl_1
-LICENSE=ISE
-USER_INFO=210779069_174157381_210595800_267

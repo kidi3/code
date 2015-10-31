@@ -1,1 +1,0 @@
--intstyle "pa" -incremental -L "work" -L "unisims_ver" -L "unimacro_ver" -L "xilinxcorelib_ver" -o "led_driver_tb.exe" --prj "/home/student/head/head.sim/sim_1/behav/led_driver_tb.prj" -top "work.led_driver_tb" -top "work.glbl" 
